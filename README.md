@@ -8,7 +8,7 @@ The goal of this project is to understand the customers in terms of their subscr
 
 ### Data Collected
 1. Customer ID: This refers to the unique number assigned to the customer
-2. Customer Name: Thid is the different names of the customers
+2. Customer Name: This is the different names of the customers
 3. Region: This refers to the different geographical area where the customer subscribed
 4. Subscription Types: This is the diferent categories of the subscription (BASIC,PREMIUM,STANDARD)
 5. Subscription Start: This refers to the date that the subscription was activated
